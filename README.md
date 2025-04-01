@@ -70,5 +70,6 @@ We have prepared the scripts to evaluate the trained model in `scripts/CLMoE/Eva
 
 ## Acknowledgement
 
-[LLaVA](https://github.com/haotian-liu/LLaVA): the codebase we built upon, and our base model LLaVA-1.5-7b that has the amazing vision-language capabilities!
+[LLaVA](https://github.com/haotian-liu/LLaVA): the codebase we built upon, and our base model LLaVA-1.5-7b that has the amazing vision-language capabilities! 
+
 If you have any questions about CL-MOE, please leave us a comment in the issue.
