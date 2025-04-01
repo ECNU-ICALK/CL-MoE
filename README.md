@@ -2,7 +2,7 @@
 
 Tianyu Huai, Jie Zhou, Xingjiao Wu, Qin Chen, Qingchun Bai, Ze Zhou, Liang He.
 
-<img src="./assets/architecture.png">
+<img src="./framework.png">
 
 ## Abstract
 
