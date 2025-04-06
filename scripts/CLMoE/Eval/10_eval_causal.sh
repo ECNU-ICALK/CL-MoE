@@ -17,7 +17,7 @@ else
     MODELPATH=$2
 fi
 
-RESULT_DIR="./results/VQACL/causal"
+RESULT_DIR="./results/CLMoE/causal"
 
 for IDX in $(seq 0 $((CHUNKS-1))); do
     CUDA_VISIBLE_DEVICES=${GPULIST[$IDX]} python -m llava.eval.CLMoE.model_vqa_cc_instruction \
